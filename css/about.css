@@ -1,0 +1,126 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+
+#about h1{
+
+  font-size: 55px;   
+  font-family: 'Manjari', sans-serif;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #1797ce;
+}
+
+.desc{
+
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-size: 20px;
+    font-family:'Raleway', sans-serif;
+    font-weight: bold;
+   
+
+   
+}
+ 
+#mission{
+  
+background-color: whitesmoke;
+
+}
+
+#mission h1{
+     color: #1797ce;
+     padding-bottom:30px; 
+}  
+
+
+.numbers{
+    padding:30px 0px 30px 70px; 
+    font-size: 20px;
+    font-weight:bold;
+   border-bottom:2px solid #00000017;
+  
+}
+
+.num{
+    color: #1797ce;
+}
+  
+
+
+.team{
+
+    margin-bottom: 40px;
+    
+}
+
+ #coll img{
+    transform: rotate(90deg);
+}
+.team .row{
+    padding-left: 50px;
+}
+.team h1{
+    
+    padding: 50px;
+    
+    font-size: 65px;
+    font-family:  'Manjari', sans-serif; 
+}
+.team h4{
+    padding-top: 20px;
+}
+
+
+.icon{
+    display: inline;
+    padding-left: 10px;
+}
+
+.site-footer{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    width: 100%;
+    
+}
+#container-footer{
+    padding: 26px;
+}
+
+#contact-icon{
+    font-size: 14px;
+}
+
+
+.site-footer hr{
+   border: 0.5px solid #ffffffa6;
+   
+    
+   
+}
+
+.site-footer a{
+    color:#ffffffa6;
+    font-size: 15px;
+}
+
+.footer-lists{
+    padding-right: 100px;
+}
+
+.footer-list{
+    list-style: none;
+    
+}
+
+.footer-list a{
+    text-decoration: none;
+}
+
+#footer-icon{
+    padding-left:100px; 
+}

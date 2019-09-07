@@ -1,0 +1,110 @@
+.services h1{
+padding:50px 0 30px 0; 
+text-align: center;
+font-size: 55px;
+
+}
+.services hr{   
+    border-bottom: 4px solid   #3bb8c9;
+    width: 200px;
+    transition: all .5s; 
+
+}
+
+
+
+.services .heading{
+
+    text-align: center;
+    padding-bottom:60px;
+    font-size: 30px;
+    
+}
+
+.services i{
+    color: #1fb9fb;
+    display: block;
+    margin:  auto;
+    
+}
+
+.process{
+    margin-top: 50px;
+    line-height: 1.75;
+    color: #3c3c3c;
+}
+
+.process h1{
+    padding:50px;
+    text-align: center;
+    font-size: 55px; 
+}
+
+.agile{
+ margin-bottom:20px; 
+}
+
+
+.process p{
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.warranty{
+
+    line-height: 1.75;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 80px;
+}
+.warranty h1{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.warranty img{
+    height: 40px;
+}
+.contact{
+    padding: 50px 0;
+    background: whitesmoke;
+}
+.contact img{
+    display: block;
+    height:120px;
+}
+
+.contact p{
+    line-height: 1.75;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif
+}
+.contact span{
+    color: #10d4ee;
+    font-family: sans-serif;
+    font-size: 21px;
+}
+
+.clink{
+    display: inline-block;
+    border:1px solid;
+    background-color: #3bb8c9;
+    border-radius: 20px
+}
+
+.clink a{
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
