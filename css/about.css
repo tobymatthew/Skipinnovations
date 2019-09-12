@@ -1,6 +1,7 @@
 *
 {
     box-sizing: border-box;
+    
 }
 
 
@@ -21,9 +22,7 @@
     font-size: 20px;
     font-family:'Raleway', sans-serif;
     font-weight: bold;
-   
 
-   
 }
  
 #mission{
@@ -49,6 +48,9 @@ background-color: whitesmoke;
 .num{
     color: #1797ce;
 }
+#mail{
+    display: inline;
+}
   
 
 
@@ -58,9 +60,7 @@ background-color: whitesmoke;
     
 }
 
- #coll img{
-    transform: rotate(90deg);
-}
+ 
 .team .row{
     padding-left: 50px;
 }
@@ -75,11 +75,15 @@ background-color: whitesmoke;
     padding-top: 20px;
 }
 
-
-.icon{
-    display: inline;
-    padding-left: 10px;
+.team h4,p{
+    padding-left:60px; 
 }
+.team img{
+    padding-left:60px; 
+    border-radius: 10px; 
+}
+
+
 
 .site-footer{
     background-color: rgb(8, 8, 8);
@@ -103,10 +107,7 @@ background-color: whitesmoke;
    
 }
 
-.site-footer a{
-    color:#ffffffa6;
-    font-size: 15px;
-}
+
 
 .footer-lists{
     padding-right: 100px;

@@ -75,7 +75,7 @@
 <body>
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container">
-            <a href="index" class="navbar-brand"> <img src="image/SK!P.png" alt="" height="60px"> Skiplab
+            <a href="index" class="navbar-brand"> <img src="image/SK!P.png" alt="" height="50px"> Skiplab
                 Innovation</a>
             <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"></span></button>
 
@@ -159,15 +159,15 @@
                         <!--Section description-->
                         <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not
                             hesitate to
-                            call us directly. Our team will come back to you within
-                            a matter of hours to help you.</p>
+                            contact us directly. Our team will get back to you in
+                            no time.</p>
                         <ul class="list-unstyled mb-0">
                             <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                                <p>Lekki, Lagos, Nigera</p>
+                                <p>Lekki, Lagos, Nigeria</p>
                             </li>
 
                             <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                                <p>+2348130308873</p>
+                                <p>+2348130308873, +2348153023435 </p>
                             </li>
 
                             <li><i class="fas fa-envelope mt-4 fa-2x"></i>
@@ -183,12 +183,13 @@
 
     </section>
 
-  <footer class="site-footer">
+  
+    <footer class="site-footer">
         <div class="container" id="container-footer">
 
             <div class="row">
 
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4">
                     <h4 id="h4">Quick Links</h4>
                     <ul class="footer-lists">
                         <li class="footer-list">
@@ -216,32 +217,32 @@
 
                 </div>
 
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4">
                   <h4>Services</h4>
                     <ul class="footer-lists">
-                        <li class=" footer-list">Software devlopment </li>
-                        <li class=" footer-list">Software Management</li>
+                        <li class=" footer-list">Software development </li>
+                        <li class=" footer-list">Software management</li>
                         <li class=" footer-list">App design</li>
-                        <li class=" footer-list">Web devlopment</li>
+                        <li class=" footer-list">Web development</li>
                         <li class=" footer-list">Web design</li>
-                        <li class=" footer-list">mobile strategy</li>
+                        <li class=" footer-list">Mobile strategy</li>
 
                     </ul>
 
                 </div>
 
 
-                <div class="col-md-4 col-sm-6" id="footer-icon">
+                <div class="col-md-4" id="footer-icon">
                         
                         
                         
-                          <p>  Lekki,Lagos,Nigeria</p>
+                          
                         
                         
                           <p>  
                               <a href="tel:+2348130308873">
                                 <i class="fas fa-phone mt-4 fa-2x"> </i>
-                                +2348130308873
+                                 <span class="nums"> +2348130308873</span>
                             </a>
                         </p>
 
@@ -249,7 +250,7 @@
                       <p> 
                           <a href="mailto:Skiplab.innovation@gmail.com">
                             <i class="fas fa-envelope mt-4 fa-2x"></i>
-                            Skiplab.innovation@gmail.com
+                            <span class="nums">Skiplab.innovation@gmail.com </span> 
                         </a>
                     </p> 
                    

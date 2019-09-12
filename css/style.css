@@ -2,13 +2,20 @@ body {
   overflow-x: hidden; }
 
 .navbar .nav-link {
-  font-size: 17px;
+  font-size: 15px;
+  font-family: sans-serif;
   text-transform: uppercase;
   padding-left: 1em !important;
   padding-right: 1em !important; }
 
 .navbar .nav-item.active {
   border-left: #444 3px solid; }
+
+  
+  .navbar-brand{
+    font-size:25px; 
+    font-family: sans-serif;
+  }
 
 .carousel-item {
   height: 450px; }
@@ -137,4 +144,9 @@ footer#main-footer {
 }
 .site-footer p{
    margin: 0;
+   
 }
+.nums{
+  padding-left:5px;
+ }
+
