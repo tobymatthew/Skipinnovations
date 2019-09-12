@@ -89,11 +89,13 @@ body {
     
 }
 
-.services i{
+.services img{
+    height: 90px;
+    padding-bottom: 20px;
     transition: all .4s ease-in-out;
 }
 
-.services i:hover{
+.services img:hover{
     color: #1fb9fb;
     transform: scale(1.5);
 
@@ -168,8 +170,8 @@ body {
    }
 
    #industries img{
-       height: 110px;
-       padding-bottom:50px; 
+       height: 150px;
+       padding-bottom:70px; 
        transition: all .5s ease-in-out;
     }
 
@@ -212,16 +214,25 @@ body {
     background-color: rgb(8, 8, 8);
     color: white;
     width: 100%;
+    font-size: 20px;
     
 }
 #container-footer{
     padding: 26px;
 }
 
-.site-footer hr{
-   border: 0.5px solid #ffffffa6;
+.site-footer h4{
+   padding-left:40px; 
     
    
+}
+
+ #h4{
+    padding-left:30px; 
+}
+
+.site-footer i{
+    font-size: 20px;
 }
 
 .site-footer a{
@@ -231,6 +242,8 @@ body {
 
 .footer-lists{
     padding-right: 100px;
+    color:#ffffffa6;
+    font-size: 15px;
 }
 
 .footer-list{
@@ -244,6 +257,9 @@ body {
 
 #footer-icon{
     padding-left:100px; 
+}
+.site-footer p{
+   margin: 0;
 }
 
 
