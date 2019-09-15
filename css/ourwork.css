@@ -5,6 +5,16 @@
     
 }
 
+.work a{
+  text-decoration: none;
+  color: black;
+  transition: all .5s ease-in-out;
+}
+
+.work a:hover{
+    color: rgba(0, 195, 255, 0.849);
+}
+
 .cards{
 
     padding: 50px 20px;
@@ -33,6 +43,7 @@
         align-items: center;
     
 }
+
 
 .web img{
     height:400px;

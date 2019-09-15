@@ -48,80 +48,80 @@ background-color: whitesmoke;
 .num{
     color: #1797ce;
 }
-#mail{
-    display: inline;
+.mail i{
+    display: inline-block;
+   
+    
+
 }
+
+.mail p{
+    display: inline-block;
+    width: calc(100% - 100px);
+
+}
+
+
   
 
 
 .team{
 
     margin-bottom: 40px;
+    margin-top: 30px;
+    
     
 }
 
  
-.team .row{
-    padding-left: 50px;
-}
-.team h1{
-    
-    padding: 50px;
-    
-    font-size: 65px;
-    font-family:  'Manjari', sans-serif; 
-}
-.team h4{
-    padding-top: 20px;
-}
 
-.team h4,p{
-    padding-left:60px; 
-}
-.team img{
-    padding-left:60px; 
-    border-radius: 10px; 
-}
-
-
-
-.site-footer{
-    background-color: rgb(8, 8, 8);
-    color: white;
-    width: 100%;
-    
-}
-#container-footer{
-    padding: 26px;
-}
-
-#contact-icon{
-    font-size: 14px;
-}
-
-
-.site-footer hr{
-   border: 0.5px solid #ffffffa6;
-   
-    
+.team .cards
+{
+    padding-top: 50px;
+    padding-left:80px; 
    
 }
 
-
-
-.footer-lists{
-    padding-right: 100px;
-}
-
-.footer-list{
-    list-style: none;
+.web{
     
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.30rem; 
+    align-items: center;
+    
+
 }
 
-.footer-list a{
-    text-decoration: none;
+.team a{
+    padding-left:50px;
+
 }
 
-#footer-icon{
-    padding-left:100px; 
+.team p{
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.555);
 }
+
+.link{
+    height: 16px;
+    align-items: center;
+    transition: all .4s ease-in-out ;
+}
+
+.link:hover{
+   transform:scale(1.3); 
+}
+
+
+
+
+
+
+

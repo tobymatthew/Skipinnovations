@@ -159,7 +159,7 @@
                         <!--Section description-->
                         <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not
                             hesitate to
-                            contact us directly. Our team will get back to you in
+                            contact us. Our team will get back to you in
                             no time.</p>
                         <ul class="list-unstyled mb-0">
                             <li><i class="fas fa-map-marker-alt fa-2x"></i>
